@@ -16,5 +16,5 @@
     ],
     "BIDSVersion": "1.0.0",
     "DatasetDOI": "doi:10.18112/openneuro.ds003927.v1.0.1",
-    "HowToAcknowledge": "Mei, N., Santana, R. & Soto, D. Informative neural representations of unseen contents during higher-order processing in human brains and deep artificial networks. Nat Hum Behav 6, 720–731 (2022). https://doi.org/10.1038/s41562-021-01274-7"
+    "HowToAcknowledge": "Please cite this paper: https://doi.org/10.1038/s41562-021-01274-7"
 }
